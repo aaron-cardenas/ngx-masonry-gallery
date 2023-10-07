@@ -41,7 +41,6 @@
     "codelyzer": "6.0.2",
     "jasmine-core": "4.3.0",
     "jasmine-spec-reporter": "7.0.0",
-@@ -48,9 +48,9 @@
     "karma-jasmine-html-reporter": "2.0.0",
     "protractor": "7.0.0",
     "ts-node": "10.9.1",
