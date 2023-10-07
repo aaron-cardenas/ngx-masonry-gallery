@@ -1,4 +1,4 @@
-{
+
   "name": "ngx-masonry-gallery-source",
   "version": "0.1.0",
   "scripts": {
@@ -28,7 +28,7 @@
     "zone.js": "0.11.8"
   },
   "devDependencies": {
-     "@angular-devkit/build-angular": "15.2.8",
+    "@angular-devkit/build-angular": "15.2.8",
     "@angular/cli": "15.2.8",
     "@angular/compiler-cli": "15.2.9",
     "@angular/language-service": "15.2.9",
@@ -41,15 +41,16 @@
     "codelyzer": "6.0.2",
     "jasmine-core": "4.3.0",
     "jasmine-spec-reporter": "7.0.0",
+    "karma": "6.4.0",
+    "karma-chrome-launcher": "3.1.1",
+    "karma-coverage-istanbul-reporter": "3.0.3",
+    "karma-jasmine": "5.1.0",
     "karma-jasmine-html-reporter": "2.0.0",
     "protractor": "7.0.0",
     "ts-node": "10.9.1",
     "tsickle": "0.46.3",
     "tslib": "2.4.0",
     "tslint": "6.1.3",
-    "angular-cli-ghpages": "1.0.3",
-    "@types/imagesloaded": "4.1.2",
-    "@types/masonry-layout": "4.2.5"
     "typescript": "4.8.2"
   }
 }
